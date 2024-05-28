@@ -1,5 +1,5 @@
 import React from 'react';
 
 export const Button = () => {
-  return <div>index</div>;
+  return <button></button>;
 };

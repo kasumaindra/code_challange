@@ -5,9 +5,9 @@ import logo from '@/public/logo.png';
 export const Navbar = () => {
   return (
     <nav className="bg-gray-600 p-8 w-screen">
-      <div className="container mx-auto flex justify-between items-center">
-        <div className="text-white text-lg font-bold">
-          <Image src={logo} alt="logo" width={120} height={90} />
+      <div className="container mx-auto flex justify-between">
+        <div className="items-start">
+          <Image src={logo} alt="logo" width={200} height={150} />
         </div>
         <ul className="flex space-x-4 items-center">
           <li>
@@ -17,7 +17,7 @@ export const Navbar = () => {
           </li>
           <li>
             <a href="#" className="text-white hover:text-gray-300">
-              About
+              About Us
             </a>
           </li>
           <li>
@@ -27,7 +27,7 @@ export const Navbar = () => {
           </li>
           <li>
             <a href="#" className="text-white hover:text-gray-300">
-              Contact
+              Business Opportunity
             </a>
           </li>
           <li>
