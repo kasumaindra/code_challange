@@ -6,7 +6,7 @@ import contenthome2 from '@/public/contenhome2.png';
 export const ContentHome = () => {
   return (
     <>
-      <div className="flex justify-between mt-16 px-28">
+      <div className="flex justify-between mt-10 px-28">
         <div className="basis-1/2 flex flex-col justify-center pl-20">
           <h1 className="text-pink-500 text-4xl font-bold text-left italic uppercase">Lorem ipsum dolor sit amet, consectetur adipisicing elit</h1>
           <h1 className="text-xl text-left uppercase py-5">
