@@ -16,6 +16,7 @@ export const Footer = () => {
           tempore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam illo veniam repellat exercitationem reiciendis quae, recusandae possimus dolorum. Delectus odio cumque dicta enim modi error obcaecati magni quod iste
           corporis.
         </h1>
+        <h1 className="text-white font-semibold text-xl text-left py-8">Copyright @Kasumaindra</h1>
       </div>
       <div className="flex flex-col justify-start items-end pr-20">
         <ul className="flex flex-row text-white text-4xl py-5">

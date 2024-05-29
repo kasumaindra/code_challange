@@ -17,7 +17,7 @@ export const HeroAbout = () => {
           </h1>
         </div>
         <div className="pt-6">
-          <button className="rounded-full bg-white py-3 px-8 text-black text-2xl">SELENGKAPNYA</button>
+          <button className="rounded-full bg-white py-3 px-8 text-black text-2xl uppercase">Selengkapnya</button>
         </div>
       </div>
     </div>
