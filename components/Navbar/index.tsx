@@ -11,23 +11,23 @@ export const Navbar = () => {
         </div>
         <ul className="flex space-x-4 items-center">
           <li>
-            <a href="#" className="text-white hover:text-gray-300">
+            <a href="/" className="text-white hover:text-gray-300">
               Home
             </a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-300">
+            <a href="/about" className="text-white hover:text-gray-300">
               About Us
             </a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-300">
+            <a href="/services" className="text-white hover:text-gray-300">
               Services
             </a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-300">
-              Business Opportunity
+            <a href="business" className="text-white hover:text-gray-300">
+              Opportunity
             </a>
           </li>
           <li>

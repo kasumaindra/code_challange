@@ -7,10 +7,6 @@ import product4 from '@/public/product4.png';
 import product5 from '@/public/product5.png';
 import product6 from '@/public/product6.png';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faPhone } from '@fortawesome/free-solid-svg-icons';
-import { faInstagram, faYoutube, faFacebook, faTwitter } from '@fortawesome/free-brands-svg-icons';
-
 export const ContentService = () => {
   return (
     <>
