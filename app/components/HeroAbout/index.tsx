@@ -18,7 +18,7 @@ export const HeroAbout = () => {
           </p>
         </div>
         <div className="pt-4 md:pt-6">
-          <button className="rounded-full bg-white py-2 md:py-3 px-6 md:px-8 text-black text-lg md:text-2xl uppercase">Let's See More</button>
+          <button className="rounded-full bg-white py-2 md:py-3 px-6 md:px-8 text-black text-lg md:text-2xl uppercase">Let See More</button>
         </div>
       </div>
     </div>

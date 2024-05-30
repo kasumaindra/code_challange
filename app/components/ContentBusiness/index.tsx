@@ -40,7 +40,7 @@ export const ContenBusiness = () => {
                 <hr className="border-b-2 border-black w-72 mt-5 mx-auto" />
               </div>
               <div className="container max-w-6xl pt-7">
-                <h1 className="text-black text-xl text-center">You have the freedom to be your own boss and work your own hours. Work on a part-time or full-time basis - it's your choice.</h1>
+                <h1 className="text-black text-xl text-center">You have the freedom to be your own boss and work your own hours. Work on a part-time or full-time basis - it is your choice.</h1>
               </div>
             </div>
           </div>
@@ -53,7 +53,7 @@ export const ContenBusiness = () => {
               </div>
               <div className="container max-w-6xl py-10">
                 <h1 className="text-black text-xl text-center">
-                  Kalisa Sehat Sejahtera offers various product packages to run your business. Whether you have an interest in beauty, skin care or anything else tailored to your needs. It's your choice.
+                  Kalisa Sehat Sejahtera offers various product packages to run your business. Whether you have an interest in beauty, skin care or anything else tailored to your needs. It is your choice.
                 </h1>
               </div>
             </div>
@@ -69,7 +69,7 @@ export const ContenBusiness = () => {
               </div>
               <div className="container max-w-6xl py-10">
                 <h1 className="text-black text-xl text-center">
-                  With supporting tools and expert training, you'll find everything here to build your business. With this training you will be guided through the material provided until your business breaks ground.
+                  With supporting tools and expert training, you wll find everything here to build your business. With this training you will be guided through the material provided until your business breaks ground.
                 </h1>
               </div>
             </div>

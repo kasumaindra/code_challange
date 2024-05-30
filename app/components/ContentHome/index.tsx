@@ -28,7 +28,7 @@ export const ContentHome = () => {
         <div className="basis-full md:basis-1/2 flex flex-col justify-center pr-5 md:px-20">
           <h1 className="text-pink-500 text-2xl md:text-4xl font-bold text-left italic uppercase">Achieve the Dream of a Healthy and Prosperous Life</h1>
           <p className="text-base md:text-xl text-left uppercase py-5">
-            What's the secret to staying young? Live each day with optimism and confidence to do what you love for the rest of your life. Through our innovative science, we uncover new ways to help you look and feel young. We bring these
+            What the secret to staying young? Live each day with optimism and confidence to do what you love for the rest of your life. Through our innovative science, we uncover new ways to help you look and feel young. We bring these
             discoveries to life through fine personal care products and supplements.
           </p>
         </div>
@@ -125,7 +125,7 @@ export const ContentHome = () => {
             </div>
             <div className="p-8">
               <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Customer Testimonial</div>
-              <p className="mt-2 text-black">"This product has completely transformed the way we do business. The ease of use and excellent customer service have made all the difference. Highly recommended!"</p>
+              <p className="mt-2 text-black">This product has completely transformed the way we do business. The ease of use and excellent customer service have made all the difference. Highly recommended!</p>
               <div className="mt-4">
                 <p className="text-gray-800 font-semibold">Jane Smith</p>
                 <p className="text-gray-500">CTO, XYZ Corporation</p>
@@ -141,7 +141,7 @@ export const ContentHome = () => {
             </div>
             <div className="p-8">
               <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Customer Testimonial</div>
-              <p className="mt-2 text-black">"I've been using this service for over a year now and I couldn't be happier. The team is always responsive and the product delivers as promised. Exceptional experience!"</p>
+              <p className="mt-2 text-black">I have been using this service for over a year now and I could not be happier. The team is always responsive and the product delivers as promised. Exceptional experience!</p>
               <div className="mt-4">
                 <p className="text-gray-800 font-semibold">Michael Johnson</p>
                 <p className="text-gray-500">Founder, Startup Inc.</p>
@@ -157,7 +157,7 @@ export const ContentHome = () => {
             </div>
             <div className="p-8">
               <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Customer Testimonial</div>
-              <p className="mt-2 text-black">"Outstanding service and fantastic results. The team went above and beyond to ensure our needs were met, and we saw immediate improvements in our workflow. Five stars!"</p>
+              <p className="mt-2 text-black">Outstanding service and fantastic results. The team went above and beyond to ensure our needs were met, and we saw immediate improvements in our workflow. Five stars!</p>
               <div className="mt-4">
                 <p className="text-gray-800 font-semibold">Emily Davis</p>
                 <p className="text-gray-500">Manager, Creative Solutions</p>
